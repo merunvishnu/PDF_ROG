@@ -1,4 +1,5 @@
 streamlit
-faiss-cpu
-sentence-transformers
 pymupdf
+sentence-transformers
+faiss-cpu
+groq
