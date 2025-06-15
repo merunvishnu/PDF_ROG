@@ -4,7 +4,7 @@ from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
 
-st.title("📄 PDF Chatbot - Ask Me Anything!")
+st.title("📄 PDF Chatbot - Ask Me Anything!, Make sure your question is relevant to the PDF")
 
 uploaded_file = st.file_uploader("Upload a PDF file", type="pdf")
 
